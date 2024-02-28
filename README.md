@@ -38,6 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brainfeed-1996&" alt="brainfeed-1996" /></p>
 
-![Cover](https://github.com/Brainfeed-1996/Brainfeed-1996/blob/main/img/olivier.jpg)
+![Cover]([https://github.com/Brainfeed-1996/Brainfeed-1996/blob/main/img/olivier.jpg](https://github.com/Brainfeed-1996/Brainfeed-1996/blob/main/images/image-programmation.jpg)https://github.com/Brainfeed-1996/Brainfeed-1996/blob/main/images/image-programmation.jpg)
 
 
