@@ -36,3 +36,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brainfeed-1996&" alt="brainfeed-1996" /></p>
 
 ![Cover](images/image-programmation.jpg)
+
+### Visitor count
+
+<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+
+Added the \`Mon 3 Jan 2022\`
+
+Last update on <#today_date>
+
+<#day_before_new_years> days before new years
+
+<#gabot_signing>
+`;
