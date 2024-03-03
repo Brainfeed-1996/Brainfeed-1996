@@ -24,9 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/olivier robert-duboille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivier robert-duboille" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/olivier robert-duboille](https://www.linkedin.com/in/olivier-robert-duboille-97017b256/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivier robert-duboille" height="30" width="40" /></a>
 <a href="https://fb.com/olivier robert-duboille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="olivier robert-duboille" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/olivier duboille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="olivier duboille" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/olivier duboille]([https://www.youtube.com/channel/UC8dKyd12qm0v6u4v0epMKRA](https://www.youtube.com/channel/UC8dKyd12qm0v6u4v0epMKRA))](https://www.youtube.com/channel/UC8dKyd12qm0v6u4v0epM)](https://www.youtube.com/channel/UC8dKyd12qm0v6u4v0epMKRA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="olivier duboille" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
