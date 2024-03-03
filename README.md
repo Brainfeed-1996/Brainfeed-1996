@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/olivier-robert-duboille-97017b256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivier-robert-duboille-97017b256" height="30" width="40" /></a>
 <a href="https://fb.com/g8f22hmky59jvt4zeh8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="g8f22hmky59jvt4zeh8" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc8dkyd12qm0v6u4v0epmkra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8dkyd12qm0v6u4v0epmkra" height="30" width="40" /></a>
+<a href="youtube.com/channel/UC8dKyd12qm0v6u4v0epMKRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8dkyd12qm0v6u4v0epmkra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
