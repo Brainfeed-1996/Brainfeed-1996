@@ -7,6 +7,51 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<!-- RECENT_CREATED_START -->
+
+## Projets récents (par date de création) — depuis 2026-02-02
+
+- **ultimate-pokedex-collection** (2026-02-08) — https://github.com/Brainfeed-1996/ultimate-pokedex-collection — Consolidation de tous les Pokédex (HTML/JS/React) en une app React+TypeScript industrial-grade
+- **repo-index-by-date** (2026-02-08) — https://github.com/Brainfeed-1996/repo-index-by-date
+- **sentinel-stream** (2026-02-07) — https://github.com/Brainfeed-1996/sentinel-stream
+- **event-driven-microservices-lab** (2026-02-06) — https://github.com/Brainfeed-1996/event-driven-microservices-lab
+- **zk-auth-prototype** (2026-02-06) — https://github.com/Brainfeed-1996/zk-auth-prototype
+- **malware-triage-toolkit** (2026-02-06) — https://github.com/Brainfeed-1996/malware-triage-toolkit
+- **c2-dns-tunneling-lab** (2026-02-06) — https://github.com/Brainfeed-1996/c2-dns-tunneling-lab
+- **mlops-feature-store** (2026-02-06) — https://github.com/Brainfeed-1996/mlops-feature-store
+- **adversarial-patch-generator** (2026-02-06) — https://github.com/Brainfeed-1996/adversarial-patch-generator
+- **neural-symbolic-reasoner** (2026-02-06) — https://github.com/Brainfeed-1996/neural-symbolic-reasoner
+- **Zero-Shot-Learning-Implementation** (2026-02-06) — https://github.com/Brainfeed-1996/Zero-Shot-Learning-Implementation
+- **Advanced-Time-Series-Forecasting** (2026-02-06) — https://github.com/Brainfeed-1996/Advanced-Time-Series-Forecasting
+- **advanced-ml-mastery-collection** (2026-02-05) — https://github.com/Brainfeed-1996/advanced-ml-mastery-collection
+- **arduino-projects-collection** (2026-02-05) — https://github.com/Brainfeed-1996/arduino-projects-collection
+- **javascript-exercises-collection** (2026-02-05) — https://github.com/Brainfeed-1996/javascript-exercises-collection
+- **algorithm-challenges-collection** (2026-02-05) — https://github.com/Brainfeed-1996/algorithm-challenges-collection
+- **cpp-exercises-collection** (2026-02-05) — https://github.com/Brainfeed-1996/cpp-exercises-collection
+- **sentinel-privacy-shield** (2026-02-05) — https://github.com/Brainfeed-1996/sentinel-privacy-shield
+- **osint-vortex-engine** (2026-02-05) — https://github.com/Brainfeed-1996/osint-vortex-engine
+- **distributed-ledger-rust** (2026-02-05) — https://github.com/Brainfeed-1996/distributed-ledger-rust
+- **quantum-secure-chat-go** (2026-02-05) — https://github.com/Brainfeed-1996/quantum-secure-chat-go
+- **ai-powered-malware-sandbox** (2026-02-05) — https://github.com/Brainfeed-1996/ai-powered-malware-sandbox
+- **distributed-ddos-mitigator** (2026-02-05) — https://github.com/Brainfeed-1996/distributed-ddos-mitigator
+- **stealth-rootkit-detector** (2026-02-05) — https://github.com/Brainfeed-1996/stealth-rootkit-detector
+- **go-packet-shredder** (2026-02-05) — https://github.com/Brainfeed-1996/go-packet-shredder
+- **react-quantum-state** (2026-02-05) — https://github.com/Brainfeed-1996/react-quantum-state
+- **neural-sentinel-py** (2026-02-05) — https://github.com/Brainfeed-1996/neural-sentinel-py
+- **android-secure-storage-kt** (2026-02-03) — https://github.com/Brainfeed-1996/android-secure-storage-kt
+- **kryptos-vault-rs** (2026-02-03) — https://github.com/Brainfeed-1996/kryptos-vault-rs
+- **titan-c2-framework** (2026-02-03) — https://github.com/Brainfeed-1996/titan-c2-framework
+- **spring-boot-rate-limiter** (2026-02-03) — https://github.com/Brainfeed-1996/spring-boot-rate-limiter
+- **auto-backup-py** (2026-02-03) — https://github.com/Brainfeed-1996/auto-backup-py
+- **port-scanner-rust** (2026-02-03) — https://github.com/Brainfeed-1996/port-scanner-rust
+- **react-dashboard-v1** (2026-02-03) — https://github.com/Brainfeed-1996/react-dashboard-v1
+- **packet-sniffer-go** (2026-02-03) — https://github.com/Brainfeed-1996/packet-sniffer-go
+- **neural-net-cpp** (2026-02-03) — https://github.com/Brainfeed-1996/neural-net-cpp
+
+> Index complet (tri création): https://github.com/Brainfeed-1996/repo-index-by-date
+
+<!-- RECENT_CREATED_END -->
+
 - 🔭 I’m currently working on [Wordpress (GuitarShop)](http://olivier-d.errhub404.fr/wp/home/)
 
 - 🌱 I’m currently learning **JavaScript, React.js**
