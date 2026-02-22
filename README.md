@@ -3,20 +3,6 @@
   <h3>Industrial Security Specialist | AI Engineer | Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brainfeed-1996&label=Profile%20views&color=0e75b6&style=flat" alt="brainfeed-1996" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brainfeed-1996" alt="brainfeed-1996" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/35200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="35200" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brainfeed-1996&show_icons=true&locale=en&layout=compact" alt="brainfeed-1996" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brainfeed-1996&show_icons=true&locale=en" alt="brainfeed-1996" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brainfeed-1996&" alt="brainfeed-1996" /></p>
-
   
   <p>
     <a href="https://linkedin.com/in/olivier-robert-duboille-97017b256" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
