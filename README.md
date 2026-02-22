@@ -2,9 +2,12 @@
   <h1>Hi 💠, I'm Olivier Robert-Duboille</h1>
   <h3>Industrial Security Specialist | AI Engineer | Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brainfeed-1996&label=Profile%20views&color=0e75b6&style=flat" alt="brainfeed-1996" /> </p>
-  
-  <p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=brainfeed-1996&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
+    <img src="https://img.shields.io/github/followers/Brainfeed-1996?label=Followers&style=flat-square&color=2088FF" alt="Followers" />
+  </p>
+
+  <p align="center">
     <a href="https://linkedin.com/in/olivier-robert-duboille-97017b256" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:olivierrobertduboille@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.doyoubuzz.com/olivier-robert-duboille" target="blank"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=doyoubuzz&logoColor=white" alt="CV" /></a>
@@ -13,14 +16,14 @@
 
 ---
 
-### 🏭 Industrial Portfolio 2026
+### 🏗️ Industrial Portfolio 2026
 Explore my production-grade projects categorized by technical domain:
 
-- [🛡️ **Cyber Security**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/CYBER.md) — C2 frameworks, EDR evasion, and defensive orchestration.
-- [🧠 **AI & Machine Learning**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/AI.md) — Neural networks, RAG systems, and autonomous agents.
-- [⚙️ **Systems Engineering**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/SYSTEMS.md) — Distributed systems, service mesh, and high-perf Go/Rust.
-- [🌐 **Web Architecture**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/WEB.md) — Modern industrial dashboards and full-stack solutions.
-- [📱 **Mobile & Embedded**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/MOBILE.md) — IoT, robotics, and secure mobile storage.
+- [🛡️ **Cyber Security**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/CYBER.md) - C2 frameworks, EDR evasion, and defensive orchestration.
+- [🧠 **AI & Machine Learning**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/AI.md) - Neural networks, RAG systems, and autonomous agents.
+- [⚙️ **Systems Engineering**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/SYSTEMS.md) - Distributed systems, service mesh, and high-perf Go/Rust.
+- [🌐 **Web Architecture**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/WEB.md) - Modern industrial dashboards and full-stack solutions.
+- [📱 **Mobile & Embedded**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/MOBILE.md) - IoT, robotics, and secure mobile storage.
 
 > **Full Global Inventory**: [industrial-portfolio-2026](https://github.com/Brainfeed-1996/industrial-portfolio-2026)
 
@@ -28,13 +31,13 @@ Explore my production-grade projects categorized by technical domain:
 
 ### 🚀 Featured Industrial Flagships
 
-| Project | Tech Stack | Domain | Focus |
-| :--- | :--- | :--- | :--- |
-| **[Cyber Intel Aggregator](https://github.com/Brainfeed-1996/cyber-intel-aggregator-service)** | Rust, Next.js, NLP | Cyber Security | Dark/Clear Web Intel |
-| **[Autonomous Sec Agent](https://github.com/Brainfeed-1996/autonomous-sec-agent-ops)** | Python, LangChain, FastAPI | Industrial AI | Self-Healing SoC |
-| **[Cloud Security Mesh](https://github.com/Brainfeed-1996/cloud-native-security-mesh)** | Go, Redis, K8s | Cloud-Native | Distributed Rate-Limiting |
-| **[Blockchain Integrity](https://github.com/Brainfeed-1996/blockchain-supply-chain-integrity)** | Go, Merkle Tree, PBFT | Decentralized | Supply Chain Audit |
-| **[Edge AI IDS](https://github.com/Brainfeed-1996/edge-ai-intrusion-detection)** | C++, pybind11, ARM | Systems | < 50us Inference |
+| Project | Core Stack | Industrial Use-Case | Performance / Feature | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Cyber Intel Aggregator](https://github.com/Brainfeed-1996/cyber-intel-aggregator-service)** | Rust, Next.js, PG | Dark/Clear Web Intel | Real-time NLP Pipeline | ![Active](https://img.shields.io/badge/-Active-success) |
+| **[Edge AI IDS](https://github.com/Brainfeed-1996/edge-ai-intrusion-detection)** | C++, ONNX, gRPC | Critical Infra Protection | < 50us Inference Latency | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| **[Cloud Security Mesh](https://github.com/Brainfeed-1996/cloud-native-security-mesh)** | Go, Redis, eBPF | High-Availability Mesh | Distributed Rate-Limiting | ![Active](https://img.shields.io/badge/-Active-success) |
+| **[Blockchain Integrity](https://github.com/Brainfeed-1996/blockchain-supply-chain-integrity)** | Rust, ZKP, Substrate | Supply Chain Audit | Zero-Knowledge Verification | ![Enhanced](https://img.shields.io/badge/-Enhanced-blueviolet) |
+| **[Auto-Sec Agent Ops](https://github.com/Brainfeed-1996/autonomous-sec-agent-ops)** | Python, LLM, REST | Autonomous Security SoC | Self-Healing Infrastructure | ![Stable](https://img.shields.io/badge/-Stable-blue) |
 
 ---
 
@@ -52,9 +55,14 @@ Explore my production-grade projects categorized by technical domain:
 </p>
 
 ### 📈 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brainfeed-1996&show_icons=true&theme=tokyonight" alt="Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brainfeed-1996&layout=compact&theme=tokyonight" alt="Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brainfeed-1996&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainfeed-1996&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brainfeed-1996&theme=tokyonight" alt="Streak" />
 </p>
 
 ---
