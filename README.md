@@ -1,72 +1,61 @@
-<div align="center">
-  <h1>Hi 💠, I'm Olivier Robert-Duboille</h1>
-  <h3>Industrial Security Specialist | AI Engineer | Full-Stack Developer</h3>
+# Olivier Robert-Duboille
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=brainfeed-1996&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/github/followers/Brainfeed-1996?label=Followers&style=flat-square&color=2088FF" alt="Followers" />
-  </p>
+Security-first engineer building reliable systems, offensive and defensive security tooling, AI evaluation frameworks, and production-minded developer platforms.
 
-  <p align="center">
-    <a href="https://linkedin.com/in/olivier-robert-duboille-97017b256" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:olivierrobertduboille@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.doyoubuzz.com/olivier-robert-duboille" target="blank"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=doyoubuzz&logoColor=white" alt="CV" /></a>
-  </p>
-</div>
+## Focus
 
----
+- cybersecurity engineering
+- offensive and defensive security research
+- AI and agent security evaluation
+- distributed systems and backend platforms
+- developer tooling and workflow automation
+- full-stack systems with strong operational thinking
 
-### 🏗️ Industrial Portfolio 2026
-Explore my production-grade projects categorized by technical domain:
+## Featured repositories
 
-- [🛡️ **Cyber Security**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/CYBER.md) - C2 frameworks, EDR evasion, and defensive orchestration.
-- [🧠 **AI & Machine Learning**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/AI.md) - Neural networks, RAG systems, and autonomous agents.
-- [⚙️ **Systems Engineering**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/SYSTEMS.md) - Distributed systems, service mesh, and high-perf Go/Rust.
-- [🌐 **Web Architecture**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/WEB.md) - Modern industrial dashboards and full-stack solutions.
-- [📱 **Mobile & Embedded**](https://github.com/Brainfeed-1996/industrial-portfolio-2026/blob/main/projects/MOBILE.md) - IoT, robotics, and secure mobile storage.
+- [sentinel-fabric](https://github.com/Brainfeed-1996/sentinel-fabric) , security operations and exposure management control plane
+- [adversary-forge](https://github.com/Brainfeed-1996/adversary-forge) , AI red-team and defense evaluation framework for LLM and agent systems
+- [orchestra-mesh](https://github.com/Brainfeed-1996/orchestra-mesh) , durable distributed workflow engine for event-driven automation and approvals
+- [hybrid-post-quantum-crypto](https://github.com/Brainfeed-1996/hybrid-post-quantum-crypto) , post-quantum and classical cryptography experimentation
+- [threat-intel-pipeline](https://github.com/Brainfeed-1996/threat-intel-pipeline) , local-first threat intelligence ingestion and scoring pipeline
+- [kernel-level-memory-scanner](https://github.com/Brainfeed-1996/kernel-level-memory-scanner) , low-level memory inspection and security-oriented systems work
 
-> **Full Global Inventory**: [industrial-portfolio-2026](https://github.com/Brainfeed-1996/industrial-portfolio-2026)
+## What I optimize for
 
----
+- hard technical problems with real operational value
+- clean architecture under failure and security constraints
+- documentation that explains both implementation and judgment
+- projects that are useful, extensible, and interview-worthy
 
-### 🚀 Featured Industrial Flagships
+## Portfolio principles
 
-| Project | Core Stack | Industrial Use-Case | Performance / Feature | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Cyber Intel Aggregator](https://github.com/Brainfeed-1996/cyber-intel-aggregator-service)** | Rust, Next.js, PG | Dark/Clear Web Intel | Real-time NLP Pipeline | ![Active](https://img.shields.io/badge/-Active-success) |
-| **[Edge AI IDS](https://github.com/Brainfeed-1996/edge-ai-intrusion-detection)** | C++, ONNX, gRPC | Critical Infra Protection | < 50us Inference Latency | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| **[Cloud Security Mesh](https://github.com/Brainfeed-1996/cloud-native-security-mesh)** | Go, Redis, eBPF | High-Availability Mesh | Distributed Rate-Limiting | ![Active](https://img.shields.io/badge/-Active-success) |
-| **[Blockchain Integrity](https://github.com/Brainfeed-1996/blockchain-supply-chain-integrity)** | Rust, ZKP, Substrate | Supply Chain Audit | Zero-Knowledge Verification | ![Enhanced](https://img.shields.io/badge/-Enhanced-blueviolet) |
-| **[Auto-Sec Agent Ops](https://github.com/Brainfeed-1996/autonomous-sec-agent-ops)** | Python, LLM, REST | Autonomous Security SoC | Self-Healing Infrastructure | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+- fewer but stronger repositories
+- flagship projects with deep documentation
+- measurable usefulness over vague complexity
+- security and systems thinking across the stack
 
----
+## Current flagship buildout
 
-### 🛠️ Languages & Technical Matrix
+I am currently expanding three major repositories:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+- Sentinel Fabric
+- Adversary Forge
+- Orchestra Mesh
 
-### 📈 GitHub Statistics
+These projects are meant to become the backbone of a high-signal engineering portfolio spanning security, AI, distributed systems, and platform design.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brainfeed-1996&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainfeed-1996&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Languages" height="170" />
-</p>
+## Selected domains
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brainfeed-1996&theme=tokyonight" alt="Streak" />
-</p>
+- application security
+- cloud and infrastructure security
+- offensive security research
+- backend and distributed systems
+- AI systems and evaluation
+- data and observability
+- developer experience and automation
 
----
+## Contact
 
-<p align="center">
-  <i>"Automating security at scale. Engineering for resilience."</i>
-</p>
+- LinkedIn: https://linkedin.com/in/olivier-robert-duboille-97017b256
+- Email: olivierrobertduboille@gmail.com
+- CV: https://www.doyoubuzz.com/olivier-robert-duboille
